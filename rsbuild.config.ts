@@ -6,4 +6,7 @@ export default defineConfig({
   output: {
     assetPrefix: '/react-greeting/',
   },
+  html: {
+    template: './index.html',
+  },
 });
