@@ -1,0 +1,20 @@
+export const background = [
+    'starryNight',
+    'floatingBubbles',
+    'gradientWave',
+    'particleNetwork',
+    'galaxySpiral',
+    'rainbowWaves',
+    'geometricShapes',
+    'fireflies',
+    'matrixRain',
+    'quantumField',
+    'electricStorm',
+    'cosmicDust',
+    'neonPulse',
+    'auroraBorealis',
+    'autumnLeaves',
+    'dnaHelix',
+    'fallingFoodFiesta',
+  ];
+  
