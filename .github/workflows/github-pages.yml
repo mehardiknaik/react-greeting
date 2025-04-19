@@ -45,6 +45,7 @@ jobs:
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
+        url: ${{ steps.deployment.outputs.page_url }}
         with:
           path: './dist'
 
