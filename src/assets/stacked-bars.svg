@@ -1,0 +1,1162 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 350" preserveAspectRatio="xMidYMid" width="500" height="350" style="shape-rendering: auto; display: block; background: rgb(255, 255, 255);" xmlns:xlink="http://www.w3.org/1999/xlink"><g><rect x="0" y="-1" width="49" height="10.13953488372093" fill="#fff7f3">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="49;60;58;49" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="0;0;0;0" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="48" y="-1" width="34" height="10.13953488372093" fill="#fde0dd">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="34;34;48;34" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="48;59;57;48" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="82" y="-1" width="102" height="10.13953488372093" fill="#fcc5c0">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="102;102;107;102" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="82;92;105;82" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="183" y="-1" width="96" height="10.13953488372093" fill="#fa9fb5">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="96;91;83;96" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="183;193;212;183" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="279" y="-1" width="44" height="10.13953488372093" fill="#f768a1">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="44;42;39;44" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="279;284;295;279" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="322" y="-1" width="91" height="10.13953488372093" fill="#dd3497">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="91;89;89;91" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="322;326;334;322" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="412" y="-1" width="62" height="10.13953488372093" fill="#ae017e">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="62;51;45;62" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="412;415;422;412" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="474" y="-1" width="11" height="10.13953488372093" fill="#7a0177">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="11;7;4;11" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="474;465;467;474" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="485" y="-1" width="15" height="10.13953488372093" fill="#49006a">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="15;28;30;15" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="485;472;470;485" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="0" y="7.1" width="27" height="10.13953488372093" fill="#fff7f3">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="27;35;27" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="0;0;0" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="26" y="7.1" width="26" height="10.13953488372093" fill="#fde0dd">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="26;18;26" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="26;34;26" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="51" y="7.1" width="98" height="10.13953488372093" fill="#fcc5c0">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="98;99;98" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="51;52;51" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="148" y="7.1" width="44" height="10.13953488372093" fill="#fa9fb5">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="44;41;44" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="148;151;148" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="191" y="7.1" width="31" height="10.13953488372093" fill="#f768a1">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="31;35;31" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="191;191;191" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="221" y="7.1" width="102" height="10.13953488372093" fill="#dd3497">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="102;100;102" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="221;225;221" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="322" y="7.1" width="122" height="10.13953488372093" fill="#ae017e">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="122;108;122" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="322;325;322" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="444" y="7.1" width="23" height="10.13953488372093" fill="#7a0177">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="23;24;23" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="444;432;444" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="467" y="7.1" width="33" height="10.13953488372093" fill="#49006a">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="33;44;33" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="467;456;467" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="0" y="15.3" width="63" height="10.13953488372093" fill="#fff7f3">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="63;67;63" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="0;0;0" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="62" y="15.3" width="74" height="10.13953488372093" fill="#fde0dd">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="74;79;74" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="62;66;62" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="136" y="15.3" width="26" height="10.13953488372093" fill="#fcc5c0">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="26;27;26" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="136;144;136" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="162" y="15.3" width="52" height="10.13953488372093" fill="#fa9fb5">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="52;65;52" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="162;171;162" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="213" y="15.3" width="65" height="10.13953488372093" fill="#f768a1">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="65;48;65" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="213;236;213" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="278" y="15.3" width="68" height="10.13953488372093" fill="#dd3497">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="68;68;68" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="278;284;278" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="345" y="15.3" width="87" height="10.13953488372093" fill="#ae017e">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="87;88;87" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="345;351;345" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="432" y="15.3" width="31" height="10.13953488372093" fill="#7a0177">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="31;22;31" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="432;439;432" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="463" y="15.3" width="37" height="10.13953488372093" fill="#49006a">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="37;40;37" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="463;460;463" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="0" y="23.4" width="84" height="10.13953488372093" fill="#fff7f3">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="84;77;84" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="0;0;0" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="83" y="23.4" width="28" height="10.13953488372093" fill="#fde0dd">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="28;31;28" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="83;76;83" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="110" y="23.4" width="34" height="10.13953488372093" fill="#fcc5c0">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="34;29;34" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="110;106;110" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="144" y="23.4" width="103" height="10.13953488372093" fill="#fa9fb5">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="103;106;103" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="144;135;144" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="246" y="23.4" width="54" height="10.13953488372093" fill="#f768a1">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="54;57;54" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="246;241;246" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="300" y="23.4" width="98" height="10.13953488372093" fill="#dd3497">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="98;113;98" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="300;297;300" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="397" y="23.4" width="39" height="10.13953488372093" fill="#ae017e">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="39;36;39" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="397;410;397" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="435" y="23.4" width="18" height="10.13953488372093" fill="#7a0177">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="18;4;18" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="435;445;435" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="453" y="23.4" width="47" height="10.13953488372093" fill="#49006a">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="47;51;47" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="453;449;453" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="0" y="31.6" width="104" height="10.13953488372093" fill="#fff7f3">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="104;103;104" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="0;0;0" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="103" y="31.6" width="40" height="10.13953488372093" fill="#fde0dd">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="40;47;40" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="103;102;103" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="142" y="31.6" width="78" height="10.13953488372093" fill="#fcc5c0">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="78;80;78" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="142;148;142" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="220" y="31.6" width="25" height="10.13953488372093" fill="#fa9fb5">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="25;10;25" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="220;228;220" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="245" y="31.6" width="38" height="10.13953488372093" fill="#f768a1">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="38;51;38" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="245;237;245" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="283" y="31.6" width="4" height="10.13953488372093" fill="#dd3497">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="4;10;4" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="283;288;283" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="287" y="31.6" width="41" height="10.13953488372093" fill="#ae017e">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="41;49;41" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="287;298;287" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="327" y="31.6" width="41" height="10.13953488372093" fill="#7a0177">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="41;27;41" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="327;346;327" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="368" y="31.6" width="132" height="10.13953488372093" fill="#49006a">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="132;127;132" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="368;373;368" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="0" y="39.7" width="57" height="10.13953488372093" fill="#fff7f3">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="57;49;57" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="0;0;0" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="56" y="39.7" width="95" height="10.13953488372093" fill="#fde0dd">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="95;91;95" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="56;48;56" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="151" y="39.7" width="55" height="10.13953488372093" fill="#fcc5c0">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="55;49;55" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="151;138;151" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="205" y="39.7" width="45" height="10.13953488372093" fill="#fa9fb5">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="45;59;45" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="205;187;205" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="250" y="39.7" width="75" height="10.13953488372093" fill="#f768a1">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="75;99;75" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="250;245;250" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="325" y="39.7" width="26" height="10.13953488372093" fill="#dd3497">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="26;21;26" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="325;343;325" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="350" y="39.7" width="75" height="10.13953488372093" fill="#ae017e">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="75;74;75" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="350;364;350" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="425" y="39.7" width="29" height="10.13953488372093" fill="#7a0177">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="29;11;29" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="425;437;425" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="454" y="39.7" width="46" height="10.13953488372093" fill="#49006a">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="46;53;46" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="454;447;454" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="0" y="47.8" width="58" height="10.13953488372093" fill="#fff7f3">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="58;58;58" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="0;0;0" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="57" y="47.8" width="14" height="10.13953488372093" fill="#fde0dd">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="14;4;14" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="57;57;57" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="70" y="47.8" width="91" height="10.13953488372093" fill="#fcc5c0">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="91;79;91" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="70;61;70" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="161" y="47.8" width="78" height="10.13953488372093" fill="#fa9fb5">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="78;79;78" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="161;140;161" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="238" y="47.8" width="37" height="10.13953488372093" fill="#f768a1">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="37;44;37" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="238;218;238" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="275" y="47.8" width="75" height="10.13953488372093" fill="#dd3497">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="75;85;75" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="275;261;275" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="350" y="47.8" width="40" height="10.13953488372093" fill="#ae017e">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="40;39;40" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="350;346;350" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="389" y="47.8" width="61" height="10.13953488372093" fill="#7a0177">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="61;68;61" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="389;385;389" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="450" y="47.8" width="50" height="10.13953488372093" fill="#49006a">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="50;48;50" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="450;452;450" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="0" y="56" width="84" height="10.13953488372093" fill="#fff7f3">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="84;83;84" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="0;0;0" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="83" y="56" width="22" height="10.13953488372093" fill="#fde0dd">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="22;19;22" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="83;82;83" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="105" y="56" width="77" height="10.13953488372093" fill="#fcc5c0">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="77;87;77" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="105;101;105" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="181" y="56" width="25" height="10.13953488372093" fill="#fa9fb5">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="25;21;25" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="181;187;181" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="206" y="56" width="88" height="10.13953488372093" fill="#f768a1">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="88;84;88" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="206;207;206" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="294" y="56" width="11" height="10.13953488372093" fill="#dd3497">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="11;22;11" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="294;291;294" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="304" y="56" width="36" height="10.13953488372093" fill="#ae017e">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="36;37;36" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="304;312;304" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="339" y="56" width="54" height="10.13953488372093" fill="#7a0177">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="54;58;54" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="339;348;339" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="392" y="56" width="108" height="10.13953488372093" fill="#49006a">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="108;94;108" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="392;406;392" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="0" y="64.1" width="60" height="10.13953488372093" fill="#fff7f3">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="60;59;60" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="0;0;0" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="59" y="64.1" width="51" height="10.13953488372093" fill="#fde0dd">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="51;67;51" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="59;58;59" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="110" y="64.1" width="36" height="10.13953488372093" fill="#fcc5c0">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="36;20;36" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="110;125;110" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="146" y="64.1" width="102" height="10.13953488372093" fill="#fa9fb5">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="102;105;102" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="146;145;146" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="247" y="64.1" width="74" height="10.13953488372093" fill="#f768a1">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="74;61;74" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="247;249;247" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="321" y="64.1" width="94" height="10.13953488372093" fill="#dd3497">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="94;103;94" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="321;310;321" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="414" y="64.1" width="9" height="10.13953488372093" fill="#ae017e">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="9;21;9" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="414;413;414" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="423" y="64.1" width="21" height="10.13953488372093" fill="#7a0177">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="21;15;21" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="423;433;423" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="443" y="64.1" width="57" height="10.13953488372093" fill="#49006a">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="57;52;57" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="443;448;443" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="0" y="72.3" width="63" height="10.13953488372093" fill="#fff7f3">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="63;67;63" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="0;0;0" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="62" y="72.3" width="53" height="10.13953488372093" fill="#fde0dd">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="53;55;53" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="62;66;62" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="115" y="72.3" width="52" height="10.13953488372093" fill="#fcc5c0">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="52;53;52" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="115;120;115" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="166" y="72.3" width="14" height="10.13953488372093" fill="#fa9fb5">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="14;20;14" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="166;172;166" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="180" y="72.3" width="78" height="10.13953488372093" fill="#f768a1">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="78;73;78" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="180;192;180" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="258" y="72.3" width="73" height="10.13953488372093" fill="#dd3497">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="73;73;73" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="258;264;258" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="330" y="72.3" width="50" height="10.13953488372093" fill="#ae017e">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="50;50;50" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="330;337;330" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="380" y="72.3" width="61" height="10.13953488372093" fill="#7a0177">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="61;56;61" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="380;387;380" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="441" y="72.3" width="59" height="10.13953488372093" fill="#49006a">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="59;58;59" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="441;442;441" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="0" y="80.4" width="24" height="10.13953488372093" fill="#fff7f3">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="24;30;36;24" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="0;0;0;0" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="23" y="80.4" width="87" height="10.13953488372093" fill="#fde0dd">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="87;91;98;87" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="23;29;35;23" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="110" y="80.4" width="8" height="10.13953488372093" fill="#fcc5c0">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="8;24;14;8" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="110;120;133;110" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="117" y="80.4" width="13" height="10.13953488372093" fill="#fa9fb5">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="13;19;9;13" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="117;143;146;117" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="129" y="80.4" width="96" height="10.13953488372093" fill="#f768a1">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="96;92;91;96" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="129;162;155;129" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="224" y="80.4" width="103" height="10.13953488372093" fill="#dd3497">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="103;100;105;103" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="224;254;245;224" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="327" y="80.4" width="26" height="10.13953488372093" fill="#ae017e">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="26;14;19;26" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="327;354;350;327" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="352" y="80.4" width="90" height="10.13953488372093" fill="#7a0177">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="90;89;78;90" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="352;367;368;352" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="442" y="80.4" width="58" height="10.13953488372093" fill="#49006a">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="58;45;54;58" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="442;455;446;442" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="0" y="88.5" width="75" height="10.13953488372093" fill="#fff7f3">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="75;71;68;75" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="0;0;0;0" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="74" y="88.5" width="85" height="10.13953488372093" fill="#fde0dd">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="85;92;80;85" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="74;70;67;74" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="159" y="88.5" width="37" height="10.13953488372093" fill="#fcc5c0">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="37;20;35;37" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="159;161;146;159" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="195" y="88.5" width="12" height="10.13953488372093" fill="#fa9fb5">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="12;13;8;12" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="195;180;181;195" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="207" y="88.5" width="43" height="10.13953488372093" fill="#f768a1">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="43;46;52;43" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="207;193;188;207" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="249" y="88.5" width="17" height="10.13953488372093" fill="#dd3497">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="17;23;10;17" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="249;238;240;249" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="265" y="88.5" width="83" height="10.13953488372093" fill="#ae017e">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="83;82;91;83" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="265;261;249;265" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="348" y="88.5" width="54" height="10.13953488372093" fill="#7a0177">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="54;50;53;54" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="348;343;340;348" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="402" y="88.5" width="98" height="10.13953488372093" fill="#49006a">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="98;108;108;98" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="402;392;392;402" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="0" y="96.7" width="77" height="10.13953488372093" fill="#fff7f3">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="77;87;77" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="0;0;0" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="76" y="96.7" width="86" height="10.13953488372093" fill="#fde0dd">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="86;87;86" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="76;86;76" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="162" y="96.7" width="22" height="10.13953488372093" fill="#fcc5c0">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="22;15;22" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="162;173;162" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="184" y="96.7" width="80" height="10.13953488372093" fill="#fa9fb5">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="80;81;80" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="184;187;184" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="264" y="96.7" width="47" height="10.13953488372093" fill="#f768a1">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="47;38;47" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="264;267;264" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="310" y="96.7" width="78" height="10.13953488372093" fill="#dd3497">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="78;89;78" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="310;305;310" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="387" y="96.7" width="23" height="10.13953488372093" fill="#ae017e">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="23;26;23" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="387;394;387" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="409" y="96.7" width="57" height="10.13953488372093" fill="#7a0177">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="57;58;57" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="409;419;409" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="466" y="96.7" width="34" height="10.13953488372093" fill="#49006a">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="34;23;34" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="466;477;466" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="0" y="104.8" width="77" height="10.13953488372093" fill="#fff7f3">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="77;77;77" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="0;0;0" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="76" y="104.8" width="70" height="10.13953488372093" fill="#fde0dd">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="70;66;70" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="76;76;76" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="146" y="104.8" width="20" height="10.13953488372093" fill="#fcc5c0">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="20;16;20" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="146;141;146" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="165" y="104.8" width="51" height="10.13953488372093" fill="#fa9fb5">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="51;50;51" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="165;157;165" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="215" y="104.8" width="65" height="10.13953488372093" fill="#f768a1">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="65;69;65" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="215;206;215" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="280" y="104.8" width="29" height="10.13953488372093" fill="#dd3497">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="29;21;29" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="280;275;280" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="308" y="104.8" width="54" height="10.13953488372093" fill="#ae017e">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="54;60;54" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="308;295;308" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="362" y="104.8" width="78" height="10.13953488372093" fill="#7a0177">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="78;78;78" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="362;355;362" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="439" y="104.8" width="61" height="10.13953488372093" fill="#49006a">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="61;67;61" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="439;433;439" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="0" y="113" width="56" height="10.13953488372093" fill="#fff7f3">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="56;43;54;56" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="0;0;0;0" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="55" y="113" width="62" height="10.13953488372093" fill="#fde0dd">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="62;53;57;62" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="55;42;53;55" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="117" y="113" width="83" height="10.13953488372093" fill="#fcc5c0">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="83;82;78;83" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="117;94;110;117" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="200" y="113" width="64" height="10.13953488372093" fill="#fa9fb5">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="64;74;66;64" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="200;176;188;200" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="263" y="113" width="38" height="10.13953488372093" fill="#f768a1">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="38;42;38;38" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="263;250;253;263" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="301" y="113" width="27" height="10.13953488372093" fill="#dd3497">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="27;32;29;27" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="301;291;290;301" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="327" y="113" width="65" height="10.13953488372093" fill="#ae017e">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="65;76;72;65" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="327;322;319;327" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="392" y="113" width="54" height="10.13953488372093" fill="#7a0177">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="54;55;56;54" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="392;397;390;392" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="445" y="113" width="55" height="10.13953488372093" fill="#49006a">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="55;48;54;55" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="445;452;446;445" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="0" y="121.1" width="41" height="10.13953488372093" fill="#fff7f3">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="41;35;41" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="0;0;0" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="40" y="121.1" width="72" height="10.13953488372093" fill="#fde0dd">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="72;74;72" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="40;34;40" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="111" y="121.1" width="76" height="10.13953488372093" fill="#fcc5c0">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="76;82;76" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="111;108;111" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="187" y="121.1" width="33" height="10.13953488372093" fill="#fa9fb5">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="33;31;33" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="187;189;187" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="220" y="121.1" width="96" height="10.13953488372093" fill="#f768a1">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="96;91;96" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="220;220;220" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="315" y="121.1" width="98" height="10.13953488372093" fill="#dd3497">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="98;95;98" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="315;310;315" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="412" y="121.1" width="49" height="10.13953488372093" fill="#ae017e">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="49;50;49" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="412;405;412" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="461" y="121.1" width="31" height="10.13953488372093" fill="#7a0177">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="31;27;31" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="461;454;461" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="492" y="121.1" width="8" height="10.13953488372093" fill="#49006a">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="8;19;8" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="492;481;492" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="0" y="129.2" width="16" height="10.13953488372093" fill="#fff7f3">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="16;7;16" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="0;0;0" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="15" y="129.2" width="45" height="10.13953488372093" fill="#fde0dd">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="45;43;45" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="15;6;15" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="60" y="129.2" width="64" height="10.13953488372093" fill="#fcc5c0">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="64;78;64" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="60;48;60" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="124" y="129.2" width="77" height="10.13953488372093" fill="#fa9fb5">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="77;82;77" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="124;126;124" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="200" y="129.2" width="76" height="10.13953488372093" fill="#f768a1">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="76;75;76" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="200;207;200" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="276" y="129.2" width="24" height="10.13953488372093" fill="#dd3497">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="24;30;24" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="276;282;276" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="300" y="129.2" width="95" height="10.13953488372093" fill="#ae017e">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="95;88;95" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="300;312;300" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="394" y="129.2" width="84" height="10.13953488372093" fill="#7a0177">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="84;91;84" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="394;399;394" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="477" y="129.2" width="23" height="10.13953488372093" fill="#49006a">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="23;11;23" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="477;489;477" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="0" y="137.4" width="61" height="10.13953488372093" fill="#fff7f3">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="61;65;61" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="0;0;0" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="60" y="137.4" width="45" height="10.13953488372093" fill="#fde0dd">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="45;36;45" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="60;64;60" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="105" y="137.4" width="87" height="10.13953488372093" fill="#fcc5c0">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="87;78;87" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="105;99;105" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="192" y="137.4" width="65" height="10.13953488372093" fill="#fa9fb5">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="65;69;65" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="192;176;192" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="256" y="137.4" width="7" height="10.13953488372093" fill="#f768a1">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="7;7;7" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="256;245;256" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="263" y="137.4" width="82" height="10.13953488372093" fill="#dd3497">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="82;86;82" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="263;251;263" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="344" y="137.4" width="51" height="10.13953488372093" fill="#ae017e">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="51;52;51" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="344;336;344" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="394" y="137.4" width="49" height="10.13953488372093" fill="#7a0177">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="49;56;49" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="394;388;394" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="443" y="137.4" width="57" height="10.13953488372093" fill="#49006a">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="57;56;57" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="443;444;443" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="0" y="145.5" width="115" height="10.13953488372093" fill="#fff7f3">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="115;110;111;115" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="0;0;0;0" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="114" y="145.5" width="8" height="10.13953488372093" fill="#fde0dd">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="8;26;7;8" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="114;109;110;114" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="121" y="145.5" width="72" height="10.13953488372093" fill="#fcc5c0">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="72;76;89;72" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="121;134;116;121" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="192" y="145.5" width="25" height="10.13953488372093" fill="#fa9fb5">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="25;24;22;25" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="192;210;205;192" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="216" y="145.5" width="69" height="10.13953488372093" fill="#f768a1">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="69;67;57;69" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="216;233;226;216" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="285" y="145.5" width="105" height="10.13953488372093" fill="#dd3497">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="105;97;97;105" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="285;299;282;285" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="390" y="145.5" width="12" height="10.13953488372093" fill="#ae017e">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="12;15;14;12" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="390;395;379;390" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="401" y="145.5" width="85" height="10.13953488372093" fill="#7a0177">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="85;82;87;85" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="401;409;393;401" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="486" y="145.5" width="14" height="10.13953488372093" fill="#49006a">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="14;9;21;14" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="486;491;479;486" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="0" y="153.7" width="79" height="10.13953488372093" fill="#fff7f3">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="79;77;79" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="0;0;0" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="78" y="153.7" width="67" height="10.13953488372093" fill="#fde0dd">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="67;66;67" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="78;76;78" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="145" y="153.7" width="21" height="10.13953488372093" fill="#fcc5c0">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="21;29;21" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="145;141;145" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="165" y="153.7" width="23" height="10.13953488372093" fill="#fa9fb5">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="23;28;23" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="165;170;165" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="188" y="153.7" width="92" height="10.13953488372093" fill="#f768a1">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="92;102;92" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="188;197;188" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="280" y="153.7" width="61" height="10.13953488372093" fill="#dd3497">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="61;60;61" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="280;298;280" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="340" y="153.7" width="91" height="10.13953488372093" fill="#ae017e">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="91;85;91" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="340;358;340" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="430" y="153.7" width="39" height="10.13953488372093" fill="#7a0177">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="39;31;39" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="430;443;430" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="468" y="153.7" width="32" height="10.13953488372093" fill="#49006a">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="32;27;32" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="468;473;468" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="0" y="161.8" width="79" height="10.13953488372093" fill="#fff7f3">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="79;80;79" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="0;0;0" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="78" y="161.8" width="75" height="10.13953488372093" fill="#fde0dd">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="75;67;75" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="78;79;78" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="152" y="161.8" width="8" height="10.13953488372093" fill="#fcc5c0">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="8;12;8" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="152;146;152" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="159" y="161.8" width="32" height="10.13953488372093" fill="#fa9fb5">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="32;39;32" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="159;157;159" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="191" y="161.8" width="39" height="10.13953488372093" fill="#f768a1">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="39;40;39" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="191;196;191" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="229" y="161.8" width="78" height="10.13953488372093" fill="#dd3497">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="78;81;78" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="229;235;229" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="306" y="161.8" width="28" height="10.13953488372093" fill="#ae017e">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="28;29;28" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="306;316;306" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="334" y="161.8" width="79" height="10.13953488372093" fill="#7a0177">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="79;78;79" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="334;344;334" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="412" y="161.8" width="88" height="10.13953488372093" fill="#49006a">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="88;78;88" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="412;422;412" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="0" y="169.9" width="21" height="10.13953488372093" fill="#fff7f3">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="21;16;19;21" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="0;0;0;0" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="20" y="169.9" width="75" height="10.13953488372093" fill="#fde0dd">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="75;85;71;75" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="20;15;18;20" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="95" y="169.9" width="47" height="10.13953488372093" fill="#fcc5c0">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="47;55;42;47" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="95;99;88;95" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="142" y="169.9" width="79" height="10.13953488372093" fill="#fa9fb5">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="79;81;99;79" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="142;154;129;142" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="220" y="169.9" width="76" height="10.13953488372093" fill="#f768a1">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="76;78;73;76" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="220;235;227;220" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="296" y="169.9" width="75" height="10.13953488372093" fill="#dd3497">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="75;76;84;75" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="296;312;300;296" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="370" y="169.9" width="43" height="10.13953488372093" fill="#ae017e">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="43;41;37;43" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="370;388;383;370" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="413" y="169.9" width="23" height="10.13953488372093" fill="#7a0177">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="23;24;13;23" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="413;428;420;413" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="435" y="169.9" width="65" height="10.13953488372093" fill="#49006a">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="65;48;68;65" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="435;452;432;435" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="0" y="178.1" width="12" height="10.13953488372093" fill="#fff7f3">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="12;5;12" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="0;0;0" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="11" y="178.1" width="77" height="10.13953488372093" fill="#fde0dd">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="77;83;77" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="11;4;11" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="88" y="178.1" width="57" height="10.13953488372093" fill="#fcc5c0">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="57;58;57" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="88;87;88" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="145" y="178.1" width="41" height="10.13953488372093" fill="#fa9fb5">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="41;35;41" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="145;145;145" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="185" y="178.1" width="97" height="10.13953488372093" fill="#f768a1">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="97;89;97" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="185;180;185" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="281" y="178.1" width="81" height="10.13953488372093" fill="#dd3497">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="81;74;81" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="281;268;281" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="361" y="178.1" width="38" height="10.13953488372093" fill="#ae017e">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="38;40;38" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="361;342;361" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="399" y="178.1" width="84" height="10.13953488372093" fill="#7a0177">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="84;105;84" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="399;381;399" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="483" y="178.1" width="17" height="10.13953488372093" fill="#49006a">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="17;15;17" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="483;485;483" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="0" y="186.2" width="44" height="10.13953488372093" fill="#fff7f3">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="44;27;44" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="0;0;0" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="43" y="186.2" width="84" height="10.13953488372093" fill="#fde0dd">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="84;95;84" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="43;26;43" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="126" y="186.2" width="33" height="10.13953488372093" fill="#fcc5c0">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="33;48;33" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="126;120;126" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="159" y="186.2" width="16" height="10.13953488372093" fill="#fa9fb5">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="16;22;16" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="159;168;159" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="175" y="186.2" width="127" height="10.13953488372093" fill="#f768a1">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="127;112;127" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="175;190;175" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="302" y="186.2" width="21" height="10.13953488372093" fill="#dd3497">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="21;22;21" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="302;301;302" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="322" y="186.2" width="97" height="10.13953488372093" fill="#ae017e">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="97;97;97" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="322;322;322" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="419" y="186.2" width="36" height="10.13953488372093" fill="#7a0177">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="36;30;36" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="419;418;419" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="454" y="186.2" width="46" height="10.13953488372093" fill="#49006a">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="46;52;46" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="454;448;454" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="0" y="194.3" width="47" height="10.13953488372093" fill="#fff7f3">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="47;54;47" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="0;0;0" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="46" y="194.3" width="37" height="10.13953488372093" fill="#fde0dd">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="37;35;37" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="46;53;46" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="83" y="194.3" width="31" height="10.13953488372093" fill="#fcc5c0">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="31;32;31" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="83;88;83" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="113" y="194.3" width="84" height="10.13953488372093" fill="#fa9fb5">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="84;85;84" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="113;119;113" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="197" y="194.3" width="70" height="10.13953488372093" fill="#f768a1">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="70;65;70" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="197;204;197" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="267" y="194.3" width="68" height="10.13953488372093" fill="#dd3497">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="68;61;68" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="267;268;267" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="334" y="194.3" width="55" height="10.13953488372093" fill="#ae017e">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="55;63;55" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="334;329;334" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="388" y="194.3" width="42" height="10.13953488372093" fill="#7a0177">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="42;40;42" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="388;391;388" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="430" y="194.3" width="70" height="10.13953488372093" fill="#49006a">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="70;70;70" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="430;430;430" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="0" y="202.5" width="49" height="10.13953488372093" fill="#fff7f3">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="49;21;49" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="0;0;0" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="48" y="202.5" width="30" height="10.13953488372093" fill="#fde0dd">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="30;39;30" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="48;20;48" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="77" y="202.5" width="148" height="10.13953488372093" fill="#fcc5c0">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="148;156;148" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="77;59;77" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="224" y="202.5" width="38" height="10.13953488372093" fill="#fa9fb5">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="38;31;38" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="224;215;224" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="262" y="202.5" width="122" height="10.13953488372093" fill="#f768a1">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="122;124;122" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="262;246;262" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="383" y="202.5" width="34" height="10.13953488372093" fill="#dd3497">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="34;51;34" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="383;369;383" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="416" y="202.5" width="30" height="10.13953488372093" fill="#ae017e">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="30;38;30" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="416;419;416" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="446" y="202.5" width="33" height="10.13953488372093" fill="#7a0177">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="33;21;33" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="446;456;446" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="479" y="202.5" width="21" height="10.13953488372093" fill="#49006a">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="21;23;21" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="479;477;479" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="0" y="210.6" width="44" height="10.13953488372093" fill="#fff7f3">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="44;38;49;44" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="0;0;0;0" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="43" y="210.6" width="87" height="10.13953488372093" fill="#fde0dd">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="87;80;82;87" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="43;37;48;43" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="129" y="210.6" width="27" height="10.13953488372093" fill="#fcc5c0">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="27;37;23;27" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="129;117;130;129" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="156" y="210.6" width="76" height="10.13953488372093" fill="#fa9fb5">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="76;83;78;76" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="156;153;152;156" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="232" y="210.6" width="28" height="10.13953488372093" fill="#f768a1">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="28;30;27;28" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="232;236;229;232" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="259" y="210.6" width="76" height="10.13953488372093" fill="#dd3497">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="76;82;73;76" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="259;265;256;259" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="335" y="210.6" width="63" height="10.13953488372093" fill="#ae017e">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="63;58;63;63" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="335;347;328;335" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="398" y="210.6" width="71" height="10.13953488372093" fill="#7a0177">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="71;62;78;71" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="398;404;391;398" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="469" y="210.6" width="31" height="10.13953488372093" fill="#49006a">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="31;35;32;31" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="469;465;468;469" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="0" y="218.8" width="100" height="10.13953488372093" fill="#fff7f3">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="100;106;100" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="0;0;0" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="99" y="218.8" width="20" height="10.13953488372093" fill="#fde0dd">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="20;7;20" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="99;105;99" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="119" y="218.8" width="52" height="10.13953488372093" fill="#fcc5c0">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="52;52;52" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="119;111;119" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="170" y="218.8" width="29" height="10.13953488372093" fill="#fa9fb5">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="29;27;29" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="170;162;170" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="199" y="218.8" width="83" height="10.13953488372093" fill="#f768a1">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="83;71;83" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="199;189;199" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="281" y="218.8" width="66" height="10.13953488372093" fill="#dd3497">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="66;78;66" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="281;259;281" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="347" y="218.8" width="51" height="10.13953488372093" fill="#ae017e">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="51;50;51" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="347;336;347" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="398" y="218.8" width="32" height="10.13953488372093" fill="#7a0177">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="32;44;32" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="398;386;398" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="430" y="218.8" width="70" height="10.13953488372093" fill="#49006a">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="70;70;70" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="430;430;430" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="0" y="226.9" width="19" height="10.13953488372093" fill="#fff7f3">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="19;18;30;19" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="0;0;0;0" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="18" y="226.9" width="30" height="10.13953488372093" fill="#fde0dd">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="30;27;17;30" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="18;17;29;18" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="47" y="226.9" width="84" height="10.13953488372093" fill="#fcc5c0">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="84;77;76;84" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="47;43;45;47" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="131" y="226.9" width="19" height="10.13953488372093" fill="#fa9fb5">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="19;17;29;19" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="131;119;121;131" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="149" y="226.9" width="72" height="10.13953488372093" fill="#f768a1">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="72;87;83;72" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="149;136;149;149" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="221" y="226.9" width="49" height="10.13953488372093" fill="#dd3497">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="49;59;50;49" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="221;222;232;221" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="269" y="226.9" width="75" height="10.13953488372093" fill="#ae017e">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="75;74;85;75" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="269;281;282;269" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="344" y="226.9" width="59" height="10.13953488372093" fill="#7a0177">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="59;57;48;59" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="344;355;366;344" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="403" y="226.9" width="97" height="10.13953488372093" fill="#49006a">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="97;89;87;97" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="403;411;413;403" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="0" y="235" width="19" height="10.13953488372093" fill="#fff7f3">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="19;23;19" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="0;0;0" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="18" y="235" width="54" height="10.13953488372093" fill="#fde0dd">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="54;37;54" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="18;22;18" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="71" y="235" width="31" height="10.13953488372093" fill="#fcc5c0">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="31;32;31" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="71;58;71" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="102" y="235" width="87" height="10.13953488372093" fill="#fa9fb5">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="87;88;87" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="102;89;102" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="189" y="235" width="85" height="10.13953488372093" fill="#f768a1">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="85;90;85" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="189;177;189" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="273" y="235" width="55" height="10.13953488372093" fill="#dd3497">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="55;56;55" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="273;266;273" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="327" y="235" width="68" height="10.13953488372093" fill="#ae017e">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="68;66;68" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="327;322;327" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="395" y="235" width="6" height="10.13953488372093" fill="#7a0177">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="6;21;6" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="395;387;395" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="400" y="235" width="100" height="10.13953488372093" fill="#49006a">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="100;93;100" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="400;407;400" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="0" y="243.2" width="28" height="10.13953488372093" fill="#fff7f3">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="28;22;28" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="0;0;0" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="27" y="243.2" width="91" height="10.13953488372093" fill="#fde0dd">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="91;80;91" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="27;21;27" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="117" y="243.2" width="16" height="10.13953488372093" fill="#fcc5c0">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="16;16;16" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="117;100;117" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="133" y="243.2" width="24" height="10.13953488372093" fill="#fa9fb5">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="24;33;24" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="133;116;133" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="157" y="243.2" width="85" height="10.13953488372093" fill="#f768a1">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="85;91;85" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="157;148;157" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="241" y="243.2" width="83" height="10.13953488372093" fill="#dd3497">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="83;89;83" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="241;239;241" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="324" y="243.2" width="81" height="10.13953488372093" fill="#ae017e">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="81;79;81" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="324;327;324" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="404" y="243.2" width="13" height="10.13953488372093" fill="#7a0177">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="13;16;13" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="404;406;404" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="417" y="243.2" width="83" height="10.13953488372093" fill="#49006a">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="83;79;83" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="417;421;417" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="0" y="251.3" width="20" height="10.13953488372093" fill="#fff7f3">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="20;21;26;20" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="0;0;0;0" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="19" y="251.3" width="59" height="10.13953488372093" fill="#fde0dd">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="59;75;60;59" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="19;20;25;19" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="78" y="251.3" width="49" height="10.13953488372093" fill="#fcc5c0">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="49;42;47;49" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="78;95;85;78" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="126" y="251.3" width="70" height="10.13953488372093" fill="#fa9fb5">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="70;75;73;70" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="126;136;132;126" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="196" y="251.3" width="70" height="10.13953488372093" fill="#f768a1">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="70;64;67;70" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="196;211;205;196" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="266" y="251.3" width="78" height="10.13953488372093" fill="#dd3497">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="78;79;73;78" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="266;274;271;266" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="343" y="251.3" width="82" height="10.13953488372093" fill="#ae017e">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="82;74;81;82" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="343;353;343;343" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="424" y="251.3" width="14" height="10.13953488372093" fill="#7a0177">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="14;16;15;14" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="424;427;424;424" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="438" y="251.3" width="62" height="10.13953488372093" fill="#49006a">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="62;57;61;62" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="438;443;439;438" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="0" y="259.5" width="68" height="10.13953488372093" fill="#fff7f3">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="68;67;60;68" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="0;0;0;0" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="67" y="259.5" width="6" height="10.13953488372093" fill="#fde0dd">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="6;20;9;6" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="67;66;59;67" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="73" y="259.5" width="46" height="10.13953488372093" fill="#fcc5c0">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="46;37;41;46" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="73;86;68;73" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="118" y="259.5" width="81" height="10.13953488372093" fill="#fa9fb5">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="81;82;81;81" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="118;123;109;118" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="199" y="259.5" width="88" height="10.13953488372093" fill="#f768a1">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="88;85;88;88" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="199;204;189;199" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="286" y="259.5" width="76" height="10.13953488372093" fill="#dd3497">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="76;78;68;76" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="286;289;277;286" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="361" y="259.5" width="64" height="10.13953488372093" fill="#ae017e">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="64;65;75;64" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="361;366;344;361" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="425" y="259.5" width="64" height="10.13953488372093" fill="#7a0177">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="64;63;64;64" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="425;430;419;425" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="489" y="259.5" width="11" height="10.13953488372093" fill="#49006a">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="11;7;18;11" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="489;493;482;489" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="0" y="267.6" width="16" height="10.13953488372093" fill="#fff7f3">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="16;9;16;16" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="0;0;0;0" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="15" y="267.6" width="28" height="10.13953488372093" fill="#fde0dd">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="28;21;33;28" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="15;8;15;15" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="42" y="267.6" width="74" height="10.13953488372093" fill="#fcc5c0">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="74;68;63;74" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="42;29;48;42" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="115" y="267.6" width="90" height="10.13953488372093" fill="#fa9fb5">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="90;83;82;90" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="115;97;111;115" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="205" y="267.6" width="81" height="10.13953488372093" fill="#f768a1">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="81;90;82;81" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="205;179;192;205" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="286" y="267.6" width="24" height="10.13953488372093" fill="#dd3497">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="24;35;39;24" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="286;269;274;286" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="309" y="267.6" width="72" height="10.13953488372093" fill="#ae017e">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="72;76;66;72" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="309;303;312;309" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="381" y="267.6" width="65" height="10.13953488372093" fill="#7a0177">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="65;60;60;65" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="381;379;377;381" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="445" y="267.6" width="55" height="10.13953488372093" fill="#49006a">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="55;62;63;55" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="445;438;437;445" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="0" y="275.7" width="50" height="10.13953488372093" fill="#fff7f3">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="50;39;48;50" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="0;0;0;0" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="49" y="275.7" width="73" height="10.13953488372093" fill="#fde0dd">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="73;81;83;73" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="49;38;47;49" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="122" y="275.7" width="78" height="10.13953488372093" fill="#fcc5c0">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="78;82;81;78" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="122;118;130;122" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="199" y="275.7" width="37" height="10.13953488372093" fill="#fa9fb5">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="37;26;33;37" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="199;200;210;199" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="236" y="275.7" width="84" height="10.13953488372093" fill="#f768a1">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="84;85;75;84" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="236;225;242;236" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="319" y="275.7" width="43" height="10.13953488372093" fill="#dd3497">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="43;47;33;43" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="319;310;317;319" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="361" y="275.7" width="46" height="10.13953488372093" fill="#ae017e">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="46;47;57;46" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="361;357;349;361" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="407" y="275.7" width="22" height="10.13953488372093" fill="#7a0177">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="22;20;28;22" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="407;404;406;407" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="428" y="275.7" width="72" height="10.13953488372093" fill="#49006a">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="72;77;67;72" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="428;423;433;428" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="0" y="283.9" width="18" height="10.13953488372093" fill="#fff7f3">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="18;11;18" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="0;0;0" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="17" y="283.9" width="114" height="10.13953488372093" fill="#fde0dd">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="114;111;114" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="17;10;17" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="130" y="283.9" width="41" height="10.13953488372093" fill="#fcc5c0">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="41;44;41" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="130;120;130" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="170" y="283.9" width="112" height="10.13953488372093" fill="#fa9fb5">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="112;110;112" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="170;163;170" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="282" y="283.9" width="49" height="10.13953488372093" fill="#f768a1">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="49;40;49" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="282;273;282" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="330" y="283.9" width="76" height="10.13953488372093" fill="#dd3497">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="76;76;76" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="330;312;330" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="406" y="283.9" width="39" height="10.13953488372093" fill="#ae017e">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="39;51;39" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="406;388;406" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="445" y="283.9" width="28" height="10.13953488372093" fill="#7a0177">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="28;30;28" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="445;438;445" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="473" y="283.9" width="27" height="10.13953488372093" fill="#49006a">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="27;32;27" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="473;468;473" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="0" y="292" width="35" height="10.13953488372093" fill="#fff7f3">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="35;31;35" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="0;0;0" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="34" y="292" width="18" height="10.13953488372093" fill="#fde0dd">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="18;7;18" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="34;30;34" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="51" y="292" width="98" height="10.13953488372093" fill="#fcc5c0">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="98;104;98" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="51;36;51" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="148" y="292" width="58" height="10.13953488372093" fill="#fa9fb5">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="58;63;58" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="148;140;148" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="206" y="292" width="89" height="10.13953488372093" fill="#f768a1">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="89;87;89" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="206;202;206" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="295" y="292" width="27" height="10.13953488372093" fill="#dd3497">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="27;20;27" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="295;289;295" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="321" y="292" width="40" height="10.13953488372093" fill="#ae017e">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="40;58;40" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="321;309;321" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="361" y="292" width="97" height="10.13953488372093" fill="#7a0177">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="97;95;97" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="361;366;361" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="458" y="292" width="42" height="10.13953488372093" fill="#49006a">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="42;40;42" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="458;460;458" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="0" y="300.2" width="49" height="10.13953488372093" fill="#fff7f3">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="49;49;50;49" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="0;0;0;0" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="48" y="300.2" width="88" height="10.13953488372093" fill="#fde0dd">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="88;90;96;88" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="48;48;49;48" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="136" y="300.2" width="28" height="10.13953488372093" fill="#fcc5c0">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="28;30;33;28" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="136;137;145;136" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="163" y="300.2" width="43" height="10.13953488372093" fill="#fa9fb5">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="43;49;49;43" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="163;167;178;163" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="206" y="300.2" width="18" height="10.13953488372093" fill="#f768a1">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="18;21;19;18" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="206;216;226;206" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="223" y="300.2" width="80" height="10.13953488372093" fill="#dd3497">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="80;89;76;80" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="223;236;244;223" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="302" y="300.2" width="48" height="10.13953488372093" fill="#ae017e">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="48;45;60;48" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="302;325;320;302" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="350" y="300.2" width="68" height="10.13953488372093" fill="#7a0177">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="68;58;55;68" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="350;369;379;350" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="417" y="300.2" width="83" height="10.13953488372093" fill="#49006a">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="83;73;67;83" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="417;427;433;417" keyTimes="0;0.33;0.67;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="0" y="308.3" width="78" height="10.13953488372093" fill="#fff7f3">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="78;88;78" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="0;0;0" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="77" y="308.3" width="32" height="10.13953488372093" fill="#fde0dd">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="32;27;32" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="77;87;77" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="109" y="308.3" width="68" height="10.13953488372093" fill="#fcc5c0">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="68;74;68" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="109;114;109" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="177" y="308.3" width="56" height="10.13953488372093" fill="#fa9fb5">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="56;48;56" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="177;187;177" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="232" y="308.3" width="50" height="10.13953488372093" fill="#f768a1">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="50;62;50" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="232;234;232" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="282" y="308.3" width="109" height="10.13953488372093" fill="#dd3497">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="109;112;109" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="282;295;282" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="390" y="308.3" width="18" height="10.13953488372093" fill="#ae017e">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="18;10;18" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="390;406;390" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="407" y="308.3" width="48" height="10.13953488372093" fill="#7a0177">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="48;45;48" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="407;416;407" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="455" y="308.3" width="45" height="10.13953488372093" fill="#49006a">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="45;40;45" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="455;460;455" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="0" y="316.4" width="73" height="10.13953488372093" fill="#fff7f3">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="73;76;73" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="0;0;0" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="72" y="316.4" width="63" height="10.13953488372093" fill="#fde0dd">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="63;61;63" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="72;75;72" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="135" y="316.4" width="67" height="10.13953488372093" fill="#fcc5c0">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="67;67;67" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="135;136;135" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="201" y="316.4" width="24" height="10.13953488372093" fill="#fa9fb5">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="24;18;24" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="201;203;201" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="225" y="316.4" width="80" height="10.13953488372093" fill="#f768a1">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="80;72;80" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="225;220;225" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="304" y="316.4" width="64" height="10.13953488372093" fill="#dd3497">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="64;60;64" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="304;292;304" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="367" y="316.4" width="19" height="10.13953488372093" fill="#ae017e">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="19;23;19" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="367;351;367" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="386" y="316.4" width="64" height="10.13953488372093" fill="#7a0177">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="64;68;64" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="386;373;386" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="449" y="316.4" width="51" height="10.13953488372093" fill="#49006a">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="51;59;51" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="449;441;449" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="0" y="324.6" width="73" height="10.13953488372093" fill="#fff7f3">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="73;85;73" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="0;0;0" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="72" y="324.6" width="70" height="10.13953488372093" fill="#fde0dd">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="70;69;70" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="72;84;72" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="141" y="324.6" width="35" height="10.13953488372093" fill="#fcc5c0">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="35;47;35" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="141;152;141" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="176" y="324.6" width="43" height="10.13953488372093" fill="#fa9fb5">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="43;33;43" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="176;198;176" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="218" y="324.6" width="56" height="10.13953488372093" fill="#f768a1">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="56;44;56" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="218;231;218" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="274" y="324.6" width="114" height="10.13953488372093" fill="#dd3497">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="114;109;114" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="274;274;274" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="387" y="324.6" width="66" height="10.13953488372093" fill="#ae017e">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="66;67;66" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="387;383;387" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="453" y="324.6" width="29" height="10.13953488372093" fill="#7a0177">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="29;26;29" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="453;449;453" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="481" y="324.6" width="19" height="10.13953488372093" fill="#49006a">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="19;26;19" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="481;474;481" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="0" y="332.7" width="16" height="10.13953488372093" fill="#fff7f3">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="16;32;16" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="0;0;0" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="15" y="332.7" width="14" height="10.13953488372093" fill="#fde0dd">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="14;17;14" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="15;31;15" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="28" y="332.7" width="67" height="10.13953488372093" fill="#fcc5c0">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="67;64;67" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="28;47;28" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="95" y="332.7" width="72" height="10.13953488372093" fill="#fa9fb5">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="72;69;72" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="95;110;95" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="166" y="332.7" width="47" height="10.13953488372093" fill="#f768a1">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="47;46;47" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="166;178;166" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="213" y="332.7" width="100" height="10.13953488372093" fill="#dd3497">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="100;98;100" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="213;224;213" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="313" y="332.7" width="66" height="10.13953488372093" fill="#ae017e">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="66;66;66" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="313;321;313" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="378" y="332.7" width="72" height="10.13953488372093" fill="#7a0177">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="72;65;72" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="378;386;378" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="450" y="332.7" width="50" height="10.13953488372093" fill="#49006a">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="50;49;50" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="450;451;450" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="0" y="340.9" width="78" height="10.13953488372093" fill="#fff7f3">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="78;96;78" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="0;0;0" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="77" y="340.9" width="110" height="10.13953488372093" fill="#fde0dd">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="110;105;110" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="77;95;77" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="186" y="340.9" width="32" height="10.13953488372093" fill="#fcc5c0">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="32;32;32" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="186;199;186" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="218" y="340.9" width="60" height="10.13953488372093" fill="#fa9fb5">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="60;70;60" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="218;231;218" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="277" y="340.9" width="21" height="10.13953488372093" fill="#f768a1">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="21;16;21" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="277;300;277" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="297" y="340.9" width="42" height="10.13953488372093" fill="#dd3497">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="42;31;42" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="297;316;297" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="339" y="340.9" width="52" height="10.13953488372093" fill="#ae017e">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="52;48;52" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="339;347;339" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="390" y="340.9" width="66" height="10.13953488372093" fill="#7a0177">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="66;53;66" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="390;394;390" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><rect x="455" y="340.9" width="45" height="10.13953488372093" fill="#49006a">
+  <animate attributeName="width" repeatCount="indefinite" dur="5s" values="45;53;45" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+  <animate attributeName="x" repeatCount="indefinite" dur="5s" values="455;447;455" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" calcMode="spline"></animate>
+</rect><g></g></g><!-- [ldio] generated by https://loading.io --></svg>

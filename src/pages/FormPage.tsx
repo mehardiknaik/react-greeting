@@ -5,7 +5,7 @@ import { useNavigate } from 'react-router';
 
 const initialValues = {
   message: [''],
-  background: background[0],
+  background: background[0].name,
 };
 
 const FormPage = () => {
@@ -61,9 +61,9 @@ const FormPage = () => {
               <h1>Background</h1>
               <div className="flex gap-3 w-full flex-wrap">
                 {background.map((bg) => (
-                  <label key={bg} className="uppercase">
-                    <Field type="radio" name="background" value={bg} />
-                    {bg}
+                  <label key={bg.name} className="uppercase">
+                    <Field type="radio" name="background" value={bg.name} />
+                    {bg.name}
                   </label>
                 ))}
               </div>

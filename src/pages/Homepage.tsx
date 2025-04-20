@@ -1,31 +1,22 @@
 import ScrollingText from 'web-scrolling-text/react';
-//@ts-ignore
-import { AnimatedBackground } from 'animated-backgrounds';
 import { useEffect, useRef, useState } from 'react';
 import { useNavigate } from 'react-router';
 import { background } from '../constant/background';
-
 const Homepage = () => {
-  const [animation, setAnimation] = useState({
-    name: 'starryNight',
-  });
+  const [animation, setAnimation] = useState<{ name: string; src: any } | null>(
+    null,
+  );
   const [click, setClick] = useState(0);
 
   const navigate = useNavigate();
   const timer = useRef<any>(null);
 
   useEffect(() => {
-    const storedIndex = localStorage.getItem('backgroundAnimationIndex');
-
-    const newIndex = storedIndex
-      ? (parseInt(storedIndex) + 1) % background.length
-      : 0;
-
-    setAnimation({
-      name: background[newIndex],
-    });
-
-    localStorage.setItem('backgroundAnimationIndex', newIndex.toString());
+    const randomIndex = Math.floor(Math.random() * background.length);
+    setAnimation(background[randomIndex]);
+    return () => {
+      clearTimeout(timer.current);
+    };
   }, []);
 
   const handleClick = () => {
@@ -38,6 +29,8 @@ const Homepage = () => {
       navigate('/form');
     }
   };
+
+  console.log(animation);
   return (
     <div
       onClick={handleClick}
@@ -46,7 +39,13 @@ const Homepage = () => {
       <ScrollingText>
         {['Design & Develop By', 'Hardik Naik', 'Made with ❤️', 'Made for ❤️']}
       </ScrollingText>
-      <AnimatedBackground animationName={animation.name} />
+      {animation && (
+        <img
+          src={animation?.src}
+          alt={animation?.name}
+          className="absolute h-screen w-screen object-cover inset-0 -z-10"
+        />
+      )}
     </div>
   );
 };

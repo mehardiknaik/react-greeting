@@ -1,28 +1,27 @@
 import React from 'react';
 import { useNavigate, useParams } from 'react-router';
-//@ts-ignore
-import { AnimatedBackground } from 'animated-backgrounds';
+import { background as backgroundArr } from '../constant/background';
 
 const GreetingPage = () => {
   const [data, setData] = React.useState<any>(null);
+  const [background, setBackground] = React.useState<any>(null);
   const { data: encData } = useParams();
   const navigate = useNavigate();
   React.useEffect(() => {
     try {
       const decodedData = atob(encData || '');
       const parsedData = JSON.parse(decodedData);
+      setBackground(backgroundArr.find(x=>x.name===parsedData.background));
       setData(parsedData);
     } catch (e) {
       navigate('/');
     }
   }, [encData]);
-  console.log(data);
   return (
-    <div>
+    <div className='relative'>
       {JSON.stringify(data, null, 2)}
-      {data?.background && (
-        <AnimatedBackground animationName={data.background} />
-      )}
+      {/* <div>dqw</div> */}
+      {background && <img src={background.src} alt={background.name} className='absolute h-screen w-screen object-cover inset-0 -z-10'/>}
     </div>
   );
 };

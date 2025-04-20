@@ -1,20 +1,5 @@
 export const background = [
-    'starryNight',
-    'floatingBubbles',
-    'gradientWave',
-    'particleNetwork',
-    'galaxySpiral',
-    'rainbowWaves',
-    'geometricShapes',
-    'fireflies',
-    'matrixRain',
-    'quantumField',
-    'electricStorm',
-    'cosmicDust',
-    'neonPulse',
-    'auroraBorealis',
-    'autumnLeaves',
-    'dnaHelix',
-    'fallingFoodFiesta',
-  ];
-  
+  { name: 'wave', src: require('@/assets/wave.svg') },
+  { name: 'swell-waves', src: require('@/assets/swell-waves.svg') },
+  { name:'stacked-bars', src: require('@/assets/stacked-bars.svg') },
+];
