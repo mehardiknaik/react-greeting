@@ -2,28 +2,30 @@ import { Formik, Field, Form, ErrorMessage, FieldArray } from 'formik';
 import { Plus, SendHorizontal, Trash2 } from 'lucide-react';
 import { background } from '../constant/background';
 import { useNavigate } from 'react-router';
-
-const initialValues = {
-  message: [''],
-  background: background[0].name,
-};
+import { alignmentX, alignmentY } from '@/constant/aligment';
+import { useFormContext } from '@/context/FormContext';
+import JSONCrush from 'jsoncrush';
 
 const FormPage = () => {
-  const navigate=useNavigate()
+  const navigate = useNavigate();
+  const { formData, setFormData } = useFormContext();
   const handleSubmit = (values: any) => {
-    const data = btoa(JSON.stringify({ ...values, time: Date.now() }));
-    console.log('Form submitted:', data);
+    setFormData(values);
+    const data = encodeURIComponent(
+      JSONCrush.crush(JSON.stringify({ ...values, time: Date.now() })),
+    );
     navigate(`/greeting/${data}`);
   };
+
   return (
     <div className="min-h-screen flex items-center justify-center flex-col gap-4 p-2">
-      <Formik initialValues={initialValues} onSubmit={handleSubmit}>
+      <Formik initialValues={formData} onSubmit={handleSubmit}>
         {({ values }) => (
           <Form className="space-y-2 bg-white/20 p-4 rounded-md shadow-md w-full max-w-2xl">
             <FieldArray name="message">
               {({ remove, push }) => (
                 <section className="bg-gray-950 p-4 rounded-md space-y-2.5 w-full">
-                  <h1>Message</h1>
+                  <h1 className="font-semibold text-xl">Message</h1>
                   {values?.message?.length > 0 &&
                     values.message.map((_, index) => (
                       <div className="flex gap-3 items-center" key={index}>
@@ -58,7 +60,7 @@ const FormPage = () => {
               )}
             </FieldArray>
             <section className="bg-gray-950 p-4 rounded-md space-y-2.5">
-              <h1>Background</h1>
+              <h1 className="font-semibold text-xl">Background</h1>
               <div className="flex gap-3 w-full flex-wrap">
                 {background.map((bg) => (
                   <label key={bg.name} className="uppercase">
@@ -67,6 +69,35 @@ const FormPage = () => {
                   </label>
                 ))}
               </div>
+            </section>
+
+            <section className="bg-gray-950 p-4 rounded-md space-y-2.5">
+              <h1 className="font-semibold text-xl">Aligment</h1>
+              <div className="ml-2 space-y-2 border-b-2 border-gray-600 pb-2">
+                <h2 className="text-lg">X-direction</h2>
+                <div className="flex gap-3 w-full flex-wrap">
+                  {alignmentX.map((al) => (
+                    <label key={al.name} className="uppercase">
+                      <Field type="radio" name="alignmentX" value={al.name} />
+                      {al.name}
+                    </label>
+                  ))}
+                </div>
+              </div>
+              <div className="ml-2 space-y-2">
+                <h2 className="text-lg">Y-direction</h2>
+                <div className="flex gap-3 w-full flex-wrap">
+                  {alignmentY.map((al) => (
+                    <label key={al.name} className="uppercase">
+                      <Field type="radio" name="alignmentY" value={al.name} />
+                      {al.name}
+                    </label>
+                  ))}
+                </div>
+              </div>
+            </section>
+            <section className="bg-gray-950 p-4 rounded-md space-y-2.5">
+              <Field type="color" name="colour" />
             </section>
             <button
               type="submit"
